@@ -43,3 +43,6 @@ The following images show the web application's appearance and functionality (wi
 ![Screen Shot 2022-10-02 at 11 21 33 AM](https://user-images.githubusercontent.com/112341062/193469919-9605a9ff-33db-4f5d-aadf-786d08daf8f6.jpg)
 ![Screen Shot 2022-10-02 at 11 21 33 AM](https://user-images.githubusercontent.com/112341062/193469920-245d7a44-4256-4fb7-a584-70b0d4f2088b.png)
 ![Screen Shot 2022-10-02 at 11 21 51 AM](https://user-images.githubusercontent.com/112341062/193469921-492a1303-144d-46fe-8285-13dd04e58433.png)
+
+## License
+MIT License utilized for this repository
